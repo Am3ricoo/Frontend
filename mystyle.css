@@ -22,19 +22,17 @@ background-color: #eff5d4;
     
 }
 .img2{
-    padding: cover;
-    background-image: url();
-    background-color: antiquewhite;
-    background-size: cover;
+    
+    background-image: url(imagens/9585c802-d3dc-45c3-868b-9d869d6b4fe4.jpg);
+    background-repeat: no-repeat;
+    background-size: 250px;
     width: 250px;
     height: 250px;
     border-radius: 50%;
     border-style: dashed;
     border-color: cornflowerblue;
     margin: -10px -160px;
-    float: left;
-
-}
+    float: left;}
 .bton{
     padding: 9px 15px;
     border-radius: 3px;
